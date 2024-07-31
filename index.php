@@ -7,7 +7,14 @@
 </head>
 <body>
     <section class="container">
-<div></div>
+    <div>
+        <form action="">
+            <input type="text"><br>
+            <input type="text"><br>
+            <input type="text"><br>
+            <input type="text"><br>
+        </form>
+    </div>
 
     </section>
     <section class="un autre">
@@ -16,4 +23,3 @@
     <div class="yoo"></div>
 </body>
 </html>
-kkk
