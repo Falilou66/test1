@@ -13,6 +13,10 @@
             <input type="text"><br>
             <input type="text"><br>
             <input type="text"><br>
+            <input type="text"><br>
+            <input type="text"><br>
+            <input type="text"><br>
+            <input type="text"><br>
         </form>
     </div>
 
